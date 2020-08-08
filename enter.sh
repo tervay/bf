@@ -1,0 +1,1 @@
+docker run -it --entrypoint bash bf-polyglot

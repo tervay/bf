@@ -1,0 +1,1 @@
+docker run -it bf-polyglot $1 $2
